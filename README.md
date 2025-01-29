@@ -6,7 +6,7 @@ I am **Boogon**, a.k.a. **布公**, currently serving as an **Administrator** at
     <img alt="Boogon.png" src="Boogon.2024.8.png" width="20%">
 </p>
 
-## Technical Skills
+<h2 align="center">Technical Skills</h2>
 
 #### Programming Languages
 
@@ -24,7 +24,7 @@ I am **Boogon**, a.k.a. **布公**, currently serving as an **Administrator** at
 - **Development Tools:** Git, Microsoft Visual Studio Code, Docker
 - **Content Management:** Markdown
 
-## Organizational Roles and Contributions
+<h2 align="center">Organizational Roles and Contributions</h2>
 
 #### Administrator @ North Voice Studio | 2023.6 - Present
 
@@ -46,7 +46,7 @@ I am **Boogon**, a.k.a. **布公**, currently serving as an **Administrator** at
     + Boogon Official Website: [www.boogon.com](https://www.boogon.com)
     + Boogon Official Docs: [docs.boogon.com](https://docs.boogon.com)
 
-## Projects
+<h2 align="center">Projects</h2>
 
 #### Boogon Official Website
 
@@ -70,7 +70,7 @@ _An Experiment for AI VTuber Brollo._
 
 - Details Not Available.
 
-## Contact Information
+<h2 align="center">Contact Information</h2>
 
 Feel free to reach out of me for collaborations, opportunities or just to connect.
 
