@@ -84,7 +84,7 @@ Feel free to reach out of me for collaborations, opportunities or just to connec
 >
 > And the only evil is ignorance
 >
-> Stars cann't shine
+> Stars can't shine
 >
 > Without darkness
 >
@@ -97,9 +97,3 @@ Feel free to reach out of me for collaborations, opportunities or just to connec
 > Life is about finding ****self
 >
 > _**+ERABY+E CONNEC+10N** かめりあ_
-
-<style>
-    * {
-        font-family: "Times New Roman", "Simhei";
-    }
-</style>
