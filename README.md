@@ -1,8 +1,8 @@
 # Boogon / 布公
 
-<img src="./Boogon.2024.8.png" alt="Boogon.png" align="right" width="200px">
-
 I am **Boogon**, a.k.a. **布公**, currently serving as an **Administrator** at **North Voice Studio** (**北声工作室**) and **Boogon Official** (**布公会客厅**), where I oversee technical development. I am passionate about exploring new probability of technology and committed to bringing value to the community through projects and creativity.
+
+![Boogon.png](Boogon.2024.8.png)
 
 ## Technical Skills
 
