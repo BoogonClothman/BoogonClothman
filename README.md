@@ -2,9 +2,9 @@
 
 I am **Boogon**, a.k.a. **布公**, currently serving as an **Administrator** at **North Voice Studio** (**北声工作室**) and **Boogon Official** (**布公会客厅**), where I oversee technical development. I am passionate about exploring new probability of technology and committed to bringing value to the community through projects and creativity.
 
-<span align="center">
+<p align="center">
     <img alt="Boogon.png" src="Boogon.2024.8.png" width="20%">
-</span>
+</p>
 
 ## Technical Skills
 
