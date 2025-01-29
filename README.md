@@ -42,7 +42,7 @@ I am **Boogon**, a.k.a **布公**, currently serving as an **Administrator** at 
     + Overss project planning and execution to ensure timely deployment.
     + Enhance brand effect.
 
-- **Achievement:**
+- **Achievements:**
     + Boogon Official Website: [www.boogon.com](https://www.boogon.com)
     + Boogon Official Docs: [docs.boogon.com](https://docs.boogon.com)
 
@@ -76,7 +76,7 @@ Feel free to reach out of me for collaborations, opportunities or just to connec
 
 - **Email:** [administrator@boogon.com](mailto:administrator@boogon.com)
 - **Github:** [BoogonClothman](https://github.com/BoogonClothman)
-- **X/Twitter:** [Boogon](https://x.com/BoogonClothman)
+- **X/Twitter:** [BoogonClothman](https://x.com/BoogonClothman)
 
 > The high destiny of the individual
 >
