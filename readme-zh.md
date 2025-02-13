@@ -44,7 +44,7 @@
     + 监督项目规划和执行，确保及时部署。
     + 增强品牌效应。
 
-- **Achievements:**
+- **成就:**
     + 布公会客厅官网 [www.boogon.com](https://www.boogon.com)
     + 布公会客厅文档站 [docs.boogon.com](https://docs.boogon.com)
 
