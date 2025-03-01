@@ -1,6 +1,6 @@
 [English](./README.md) / 简体中文
 
-<h1 align="center">布公</h1>
+<h1 align="center">布公 / Boogon</h1>
 
 这里是**布公**, 也称**Boogon**, 目前担任**北声工作室**（**North Voice Studio**）和**布公会客厅**（**Boogon Official**）的**总负责人**，主管技术开发部分。热衷于探寻技术的新可能性，致力于通过项目和创造力为社会带来价值。
 
