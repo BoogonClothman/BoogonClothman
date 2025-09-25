@@ -5,7 +5,7 @@
 这里是**布公**, 也称**Boogon**, 目前担任**北声工作室**（**North Voice Studio**）和**布公会客厅**（**Boogon Reception Room**）的**总负责人**，主管技术开发部分。热衷于探寻技术的新可能性，致力于通过项目和创造力为社会带来价值。
 
 <p align="center">
-    <img alt="Boogon.png" src="Boogon.2024.8.png" width="20%">
+    <img alt="Boogon.png" src="boogon.png" width="20%">
 </p>
 
 <h2 align="center">技术技能</h2>
@@ -79,3 +79,4 @@ _人工智能虚拟主播布洛洛实验项目，以及一个基于API运行AI�
 - **电子邮件：** [administrator@boogon.com](mailto:administrator@boogon.com)
 - **Github：** [BoogonClothman](https://github.com/BoogonClothman)
 - **X/Twitter：** [BoogonClothman](https://x.com/BoogonClothman)
+
