@@ -5,7 +5,7 @@ English / [简体中文](./readme-zh.md)
 I am **Boogon**, a.k.a **布公**, currently serving as an **Administrator** at **North Voice Studio** (**北声工作室**) and **Boogon Reception Room** (**布公会客厅**), where I oversee technical development. I am passionate about exploring new probability of technology and committed to bringing value to the community through projects and creativity.
 
 <p align="center">
-    <img alt="Boogon.png" src="Boogon.2024.8.png" width="20%">
+    <img alt="Boogon.png" src="boogon.png" width="20%">
 </p>
 
 <h2 align="center">Technical Skills</h2>
@@ -79,3 +79,4 @@ Feel free to reach out of me for collaborations, opportunities or just to connec
 - **Email:** [administrator@boogon.com](mailto:administrator@boogon.com)
 - **Github:** [BoogonClothman](https://github.com/BoogonClothman)
 - **X/Twitter:** [BoogonClothman](https://x.com/BoogonClothman)
+
