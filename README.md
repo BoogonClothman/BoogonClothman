@@ -73,8 +73,7 @@ Character LoRAs for VTuber role-play, fine-tuned on Qwen3-0.6B in Chinese.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BoogonClothman&show_icons=true&theme=transparent&bg_color=FFF9F2&title_color=E0816D&icon_color=E0816D&text_color=6B625C&hide_border=true&border_radius=12" alt="GitHub Stats" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoogonClothman&layout=compact&theme=transparent&bg_color=FFF9F2&title_color=E0816D&text_color=6B625C&hide_border=true&border_radius=12" alt="Top Languages" width="330" />
+  <img src="github-stats.svg" alt="GitHub Stats" width="800" />
 </p>
 
 ---

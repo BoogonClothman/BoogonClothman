@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200" role="img" aria-label="Boogon GitHub stats">
+  <defs>
+    <style>
+      .card { fill: #FFF9F2; stroke: #EDE3D7; stroke-width: 1; rx: 16; }
+      .title { font-family: -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif; font-size: 17px; font-weight: 700; fill: #E0816D; }
+      .label { font-family: -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif; font-size: 14px; font-weight: 500; fill: #9A8F86; }
+      .value { font-family: -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif; font-size: 16px; font-weight: 700; fill: #6B625C; }
+      .lang  { font-family: -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif; font-size: 14px; font-weight: 600; fill: #6B625C; }
+      .count { font-family: -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif; font-size: 13px; font-weight: 500; fill: #B9AEA4; }
+      .note  { font-family: -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif; font-size: 12px; font-weight: 400; fill: #B9AEA4; }
+      .bar   { fill: #E0816D; rx: 3; opacity: 0.85; }
+      .sep   { stroke: #F0E6DA; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect class="card" width="800" height="200" />
+
+  <!-- left: GitHub Stats -->
+  <text class="title" x="26" y="34">⚡ GitHub Stats</text>
+
+  <text class="label" x="26" y="66">🗂 Repos</text>
+  <text class="value" x="360" y="68" text-anchor="end">18</text>
+
+  <text class="label" x="26" y="98">✅ Commits</text>
+  <text class="value" x="360" y="100" text-anchor="end">70</text>
+
+  <text class="label" x="26" y="130">⭐ Stars</text>
+  <text class="value" x="360" y="132" text-anchor="end">3</text>
+
+  <text class="label" x="26" y="162">👥 Followers</text>
+  <text class="value" x="360" y="164" text-anchor="end">6</text>
+
+  <line class="sep" x1="395" y1="40" x2="395" y2="182" />
+
+  <!-- right: Top Languages (by repo count) -->
+  <text class="title" x="410" y="34">📊 Top Languages</text>
+
+  <text class="lang" x="410" y="66">Python</text>
+  <text class="count" x="700" y="66" text-anchor="end">×4</text>
+  <rect class="bar" x="410" y="73" width="120" height="6" />
+
+  <text class="lang" x="410" y="98">HTML</text>
+  <text class="count" x="700" y="98" text-anchor="end">×2</text>
+  <rect class="bar" x="410" y="105" width="60" height="6" />
+
+  <text class="lang" x="410" y="130">Rust</text>
+  <text class="count" x="700" y="130" text-anchor="end">×1</text>
+  <rect class="bar" x="410" y="137" width="30" height="6" />
+
+  <text class="lang" x="410" y="162">TypeScript</text>
+  <text class="count" x="700" y="162" text-anchor="end">×1</text>
+  <rect class="bar" x="410" y="169" width="30" height="6" />
+
+  <text class="note" x="410" y="192">+ 6 more: Java · Go · C++ · JS · CSS · Astro</text>
+</svg>
