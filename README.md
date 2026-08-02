@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/137460706?s=140" alt="Boogon" width="140" />
+  <img src="./cooper.jpg" alt="Boogon" width="140" />
 </p>
+
 
 <h1 align="center">Hi, I'm Boogon 👋</h1>
 
@@ -27,7 +28,7 @@
 
 Technologies I reach for when building:
 
-`Python` · `Rust` · `Java` · `Go` · `C++` · `TypeScript` · `JavaScript` · `Astro`
+`Python` · `Rust` · `Java` · `Go` · `C++` · `TypeScript` · `JavaScript` · `Astro`  
 `React` · `Next.js` · `Node.js` · `Tailwind CSS` · `PostgreSQL` · `Docker` · `GraphQL` · `Figma`
 
 ---
@@ -45,7 +46,7 @@ A selection of things I've shipped — each one taught me something new.
 | [**exam4agents**](https://github.com/BoogonClothman/exam4agents) | An exam system that makes AI agents understand software engineering fundamentals. | Python |
 | [**ubuntu-cream**](https://github.com/BoogonClothman/ubuntu-cream) | A warm cream-toned Typora theme. | CSS |
 
-**More:** [python-cookbook](https://github.com/BoogonClothman/python-cookbook) · [troy-agent](https://github.com/BoogonClothman/troy-agent) · [Financial_Log_Tool_X](https://github.com/BoogonClothman/Financial_Log_Tool_X) · [transformers-template](https://github.com/BoogonClothman/transformers-template)
+**More:** [python-cookbook](https://github.com/BoogonClothman/python-cookbook) · [troy-agent](https://github.com/BoogonClothman/troy-agent)
 
 ---
 
