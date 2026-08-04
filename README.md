@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cooper.jpg" alt="Boogon" width="140" />
+  <img src="https://www.boogon.com/cooper.jpg" alt="Boogon" width="140" />
 </p>
 
 
