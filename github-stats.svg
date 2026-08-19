@@ -19,16 +19,16 @@
   <text class="title" x="26" y="34">⚡ GitHub Stats</text>
 
   <text class="label" x="26" y="66">🗂 Repos</text>
-  <text class="value" x="360" y="68" text-anchor="end">18</text>
+  <text class="value" x="360" y="68" text-anchor="end">20</text>
 
   <text class="label" x="26" y="98">✅ Commits</text>
-  <text class="value" x="360" y="100" text-anchor="end">70</text>
+  <text class="value" x="360" y="100" text-anchor="end">123</text>
 
   <text class="label" x="26" y="130">⭐ Stars</text>
-  <text class="value" x="360" y="132" text-anchor="end">3</text>
+  <text class="value" x="360" y="132" text-anchor="end">4</text>
 
   <text class="label" x="26" y="162">👥 Followers</text>
-  <text class="value" x="360" y="164" text-anchor="end">6</text>
+  <text class="value" x="360" y="164" text-anchor="end">7</text>
 
   <line class="sep" x1="395" y1="40" x2="395" y2="182" />
 
@@ -40,8 +40,8 @@
   <rect class="bar" x="410" y="73" width="120" height="6" />
 
   <text class="lang" x="410" y="98">HTML</text>
-  <text class="count" x="700" y="98" text-anchor="end">×2</text>
-  <rect class="bar" x="410" y="105" width="60" height="6" />
+  <text class="count" x="700" y="98" text-anchor="end">×4</text>
+  <rect class="bar" x="410" y="105" width="120" height="6" />
 
   <text class="lang" x="410" y="130">Rust</text>
   <text class="count" x="700" y="130" text-anchor="end">×1</text>
